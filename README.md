@@ -1,2 +1,2 @@
 # Portfolio
-Career portfolios which helps documenting education, work samples and skills.
+Career portfolio which helps documenting education, work samples and skills.
