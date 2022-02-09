@@ -1,7 +1,8 @@
 {
   "projects": {
     "portfolio": "yusufadell",
-    "yusufadell": "yusufadell"
+    "yusufadell": "yusufadell",
+    "default": "yusufadell"
   },
   "targets": {}
 }
